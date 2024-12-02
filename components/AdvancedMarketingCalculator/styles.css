@@ -1,0 +1,9 @@
+.label-with-tooltip {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.input-group {
+  margin-bottom: 16px;
+}
